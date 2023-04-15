@@ -1,0 +1,11 @@
+-d C:\Users\CANBICH\Desktop\fgpa_project\trafficdemo\impl\gwsynthesis\trafficdemo.vg
+-p GW1NZ-1-QFN48-6
+-pn GW1NZ-LV1QN48C6/I5
+-cst C:\Users\CANBICH\Desktop\fgpa_project\trafficdemo\src\trafficdemo.cst
+-cfg C:\Users\CANBICH\Desktop\fgpa_project\trafficdemo\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 10
